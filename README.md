@@ -2,7 +2,7 @@
 Python project - Level 1 Task 1 of Codveda Technology Internship.
 
 ## Features
-- Adiition, Subtraction, Multiplication, Division
+- Addition, Subtraction, Multiplication, Division
 - Handles division by zero nicely
 - Repeats calculation precedures until user exits
 
